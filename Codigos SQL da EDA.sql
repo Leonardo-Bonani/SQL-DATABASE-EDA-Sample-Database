@@ -5,8 +5,7 @@ FROM REVIEWS
 
 -- A consulta foi adicionada ao Dashboard (Qtd de Avaliações: 1,112)
 
-
--- (inserir texto)
+-- A segunda consulta 
 select avg(RATING) from REVIEWS
 
 
