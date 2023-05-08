@@ -1,9 +1,9 @@
--- (inserir texto)
-select COUNT(RATING)
+-- Primeiramente, foi consultado o número total de avaliações, contando o número de linhas da tabela REVIEWS
 
+select COUNT(RATING)
 FROM REVIEWS
 
-
+-- A consulta foi adicionada ao Dashboard (Qtd de Avaliações: 1,112)
 
 
 -- (inserir texto)
