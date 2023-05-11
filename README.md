@@ -67,11 +67,12 @@ Foi construído um dashboard na plataforma Metabase usando a linguagem SQL mais 
 Como foi solicitado, trouxe um gráfico dos novos clientes x número de pedidos no mês de dezembro, além da tabela com os dados dos clientes dos estados requiridos. 
 
 <br> 
+
 ![Dashboard 2](https://github.com/Leonardo-Bonani/SQL-METABASE-EDA-Sample-Database/assets/126993350/132a7ec9-c315-4622-9bb9-5758643cb35e)
 
 <br> 
 
-![Dashboard 3](https://github.com/Leonardo-Bonani/SQL-METABASE-EDA-Sample-Database/assets/126993350/67ec53c2-c8d9-4ec0-a0bc-d8fd19ab29e5)
+![Dashboard 3](https://github.com/Leonardo-Bonani/SQL-METABASE-EDA-Sample-Database/assets/126993350/78194ac1-a11b-43f6-aae8-5df24869c0bb)
 
 <br> <br> <br> 
 
