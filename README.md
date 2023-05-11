@@ -9,11 +9,11 @@ Foi disponibilizado neste repositório um arquivo .sql onde encontra-se os codig
 
 ## Storytelling com os Dados 
 <br>
-Sou o responsável pelo setor de análise de dados em uma grande empresa de comércio online. Meu chefe me pediu para criar um dashboard com informações importantes sobre as avaliações dos produtos vendidos na plataforma. O objetivo é entender melhor o comportamento dos clientes e identificar oportunidades de melhorias na experiência de compra.
+Sou o responsável pelo setor de análise de dados em uma empresa de comércio online. Meu chefe me pediu para criar um dashboard com informações importantes sobre as avaliações dos produtos vendidos na plataforma. O objetivo é entender melhor o comportamento dos clientes e identificar oportunidades de melhorias na experiência de compra.
 
 <br> 
 
-As perguntas que seu chefe gostaria de ver respondidas são as seguintes:
+As perguntas que o superior gostaria de ver respondidas são as seguintes:
 * Quantidade total de avaliações: quantas avaliações foram feitas pelos clientes em toda a plataforma? 
 * Média da nota das avaliações: qual é a média geral de notas dadas pelos clientes?
 * Média da nota das avaliações por categoria de produtos: como é a média de notas por categoria de produtos? Existe alguma categoria que se destaca positiva ou negativamente?
@@ -21,7 +21,11 @@ As perguntas que seu chefe gostaria de ver respondidas são as seguintes:
 * Tabela com top 10 produtos em avaliações: quais são os 10 produtos mais avaliados pelos clientes?
 * Tabela com quantidade vendida e média de avaliação: qual é a quantidade vendida e a média de avaliação dos produtos vendidos na plataforma?
 <br>
-Com essas informações, meu chefe espera ter um panorama mais completo sobre a satisfação dos clientes e poder tomar decisões estratégicas com base em dados concretos.
+Com essas informações, ele espera ter um panorama mais completo sobre a satisfação dos clientes e poder tomar decisões estratégicas com base em dados concretos.
+<br> 
+
+* EXTRA: Após isso, o meu superior solicitou também que eu trouxesse informações sobre os novos clientes x pedidos no mês de dezembro do ano anterior (2018), além de uma tabela com os clientes captados nos estados de FL, SC, NC, pois iria precisar dessas informações em uma reunião com seus pares. 
+
 <br><br>
 
 ## Dashboard 
@@ -55,5 +59,21 @@ Foi construído um dashboard na plataforma Metabase usando a linguagem SQL mais 
 * A tabela com quantidade vendida e média de avaliação permite identificar quais produtos mais vendidos estão recebendo avaliações mais positivas dos clientes. Isso pode ser um indicativo de quais produtos estão se destacando e merecem uma atenção especial da plataforma. Assim como os produtos mais vendidos que estão com baixa avaliação merecem uma investigação para se descobrir os pontos de falha que estão levando a essa baixa na nota. 
 
 <br> 
+
+## Dados EXTRA
+
+<br> 
+
+Como foi solicitado, trouxe um gráfico dos novos clientes x número de pedidos no mês de dezembro, além da tabela com os dados dos clientes dos estados requiridos. 
+
+<br> 
+![Dashboard 2](https://github.com/Leonardo-Bonani/SQL-METABASE-EDA-Sample-Database/assets/126993350/132a7ec9-c315-4622-9bb9-5758643cb35e)
+
+<br> 
+
+![Dashboard 3](https://github.com/Leonardo-Bonani/SQL-METABASE-EDA-Sample-Database/assets/126993350/67ec53c2-c8d9-4ec0-a0bc-d8fd19ab29e5)
+
+<br> <br> <br> 
+
 
 
